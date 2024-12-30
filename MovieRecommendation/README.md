@@ -41,8 +41,9 @@ Usage
 Start the program by executing the script.
 Input your preferences, such as preferred movie.
 Get a list of movie recommendations tailored to your tastes.
-Example
-   Enter your preferred movie: Tangled
+Example:
+   ```bash
+   Enter your preferred movie: Tangled.
 reCommando suggests the following movies:
 1. Out of Inferno
 2. The Princess and the Frog
