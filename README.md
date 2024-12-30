@@ -21,11 +21,11 @@ Welcome to my Machine Learning Projects repository! 🚀 This is a dedicated spa
 
    **Approach:**
    - **Dataset:** The dataset was sourced from [TMDb](https://www.themoviedb.org/) for movie details and metadata.
+   - **Data Cleaning:** Removed duplicates and missing values, extracted genres, keywords, cast, and crew using custom parsing functions.
+   - **Feature Engineering:** Created a unified "tags" column by combining movie metadata and applied stemming to standardize terms.
    - **Model:** Used cosine similarity on vectorized movie features to recommend similar movies.
    - **Posters:** Integrated OMDb API for fetching movie posters and details.
    - **UI:** Developed an interactive interface with Streamlit for user-friendly recommendations.
-
-   **Status:** Work in progress. Stay tuned!
 
 ---
 
