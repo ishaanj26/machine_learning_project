@@ -20,9 +20,10 @@ Welcome to my Machine Learning Projects repository! 🚀 This is a dedicated spa
    - Libraries: Pandas, NumPy, sklearn, ast, nltk, pickle, streamlit
 
    **Approach:**
-   - **Dataset:** Leverage a public dataset like [MovieLens](https://grouplens.org/datasets/movielens/) for movie ratings.
-   - **Model:** Use collaborative filtering techniques (e.g., user-based or item-based filtering).
-   - **Evaluation:** Evaluate the system using metrics like RMSE (Root Mean Square Error).
+   - **Dataset:** The dataset was sourced from [TMDb](https://www.themoviedb.org/) for movie details and metadata.
+   - **Model:** Used cosine similarity on vectorized movie features to recommend similar movies.
+   - **Posters:** Integrated OMDb API for fetching movie posters and details.
+   - **UI:** Developed an interactive interface with Streamlit for user-friendly recommendations.
 
    **Status:** Work in progress. Stay tuned!
 
