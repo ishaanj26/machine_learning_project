@@ -26,10 +26,10 @@ reCommando is a movie recommendation system designed to help users discover movi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/reCommando.git
+   git clone https://github.com/ishaanj26/machine_learning_project.git
 2. Navigate to the project folder:
    ```bash
-   cd reCommando
+   cd MovieRecommendation
 3. Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
@@ -39,17 +39,17 @@ reCommando is a movie recommendation system designed to help users discover movi
 
 Usage
 Start the program by executing the script.
-Input your preferences, such as preferred genres, actors, or ratings.
+Input your preferences, such as preferred movie.
 Get a list of movie recommendations tailored to your tastes.
 Example
-bash
-Copy code
-Enter your preferred genre: Action
-Enter your preferred rating (1-10): 8
+   ```bash
+   Enter your preferred movie: Tangled
 reCommando suggests the following movies:
-1. Movie Title 1
-2. Movie Title 2
-3. Movie Title 3
+1. Out of Inferno
+2. The Princess and the Frog
+3. Home on the Range
+4. Animals United
+5. Toy Story 3
    
 ## Contributions
 Feel free to fork this repository, suggest improvements, or add new features! 😊
