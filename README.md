@@ -66,4 +66,4 @@ Feel free to fork this repository, suggest improvements, or add new features! ðŸ
 ---
 
 ## License
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the [MIT License](LICENSE).
