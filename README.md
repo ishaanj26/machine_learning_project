@@ -16,7 +16,7 @@ Welcome to my Machine Learning Projects repository! 🚀 This is a dedicated spa
    **Objective:** Build a system that recommends movies to users based on their preferences.
    
    **Tech Stack:**
-   - Language: Python
+   - Language: Jupyter Notebook,Python
    - Libraries: Pandas, NumPy, sklearn, ast, nltk, pickle, streamlit
 
    **Approach:**
