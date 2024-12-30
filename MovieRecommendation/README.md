@@ -4,10 +4,9 @@ reCommando is a movie recommendation system designed to help users discover movi
 
 ## Features
 
-- **Personalized Movie Recommendations**: Provides recommendations based on the user's past movie choices, preferences, and ratings.
+- **Personalized Movie Recommendations**: Provides recommendations based on the user's movie preference
 - **User-Friendly Interface**: Simple, easy-to-use interface for inputting preferences and receiving suggestions.
-- **Multiple Algorithms**: Uses collaborative filtering, content-based filtering, or hybrid approaches for accurate recommendations.
-- **Search and Filter Options**: Users can filter recommendations by genre, year, rating, or other criteria.
+- **Content-based Filtering**: Uses content-based filtering for accurate recommendations.
 
 ## Requirements
 
