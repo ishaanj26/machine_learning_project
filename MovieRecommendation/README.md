@@ -33,6 +33,7 @@ reCommando is a movie recommendation system designed to help users discover movi
 3. Install the necessary dependencies:
 ```bash
    pip install -r requirements.txt
+
 4. Run the program:
 ```bash
 streamlit run reCommander.py
