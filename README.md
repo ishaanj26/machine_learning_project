@@ -7,13 +7,8 @@ Welcome to my Machine Learning Projects repository! 🚀 This is a dedicated spa
 ## Repository Structure
 
 ```
-├── datasets/           # Datasets used in the projects
-├── notebooks/          # Jupyter notebooks for each project
-├── src/                # Source code for the models and utilities
-├── README.md           # This file
+├── MovieRecommendation/           # Movie Recommendation Project
 ```
-
----
 
 ## Current Projects
 
@@ -22,7 +17,8 @@ Welcome to my Machine Learning Projects repository! 🚀 This is a dedicated spa
    
    **Tech Stack:**
    - Language: Python
-   - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+   - Libraries: Pandas, NumPy, from sklearn.feature_extraction.text -> CountVectorizer, ast, from nltk.stem.porter -> PorterStemmer,from sklearn.metrics.pairwise->         
+     cosine_similarity,pickle,streamlit
 
    **Approach:**
    - **Dataset:** Leverage a public dataset like [MovieLens](https://grouplens.org/datasets/movielens/) for movie ratings.
