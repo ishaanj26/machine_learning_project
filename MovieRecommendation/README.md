@@ -36,6 +36,7 @@ reCommando is a movie recommendation system designed to help users discover movi
 4. Run the program:
 ```bash
 streamlit run reCommander.py
+
 Usage
 Start the program by executing the script.
 Input your preferences, such as preferred genres, actors, or ratings.
