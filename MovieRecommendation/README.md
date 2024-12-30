@@ -8,13 +8,19 @@ reCommando is a movie recommendation system designed to help users discover movi
 - **User-Friendly Interface**: Simple, easy-to-use interface for inputting preferences and receiving suggestions.
 - **Content-based Filtering**: Uses content-based filtering for accurate recommendations.
 
-## Requirements
+## Tech Stack:**
+- Language: Jupyter Notebook,Python
+- Libraries: Pandas, NumPy, sklearn, ast, nltk, pickle, streamlit
 
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- [Any other libraries you used]
+## Approach:**
+- **Dataset:** The dataset was sourced from [TMDb](https://www.themoviedb.org/) for movie details and metadata.
+- **Data Cleaning:** Removed duplicates and missing values, extracted genres, keywords, cast, and crew using custom parsing functions.
+- **Feature Engineering:** Created a unified "tags" column by combining movie metadata and applied stemming to standardize terms.
+- **Model:** Used cosine similarity on vectorized movie features to recommend similar movies.
+- **Posters:** Integrated OMDb API for fetching movie posters and details.
+- **UI:** Developed an interactive interface with Streamlit for user-friendly recommendations.
+
+---
 
 ## Installation
 
@@ -49,8 +55,12 @@ reCommando suggests the following movies:
 1. Movie Title 1
 2. Movie Title 2
 3. Movie Title 3
-Contributing
-Feel free to fork the repository and contribute by submitting pull requests. You can help improve this project by adding new features, fixing bugs, or enhancing the recommendation algorithms.
+   
+## Contributions
+Feel free to fork this repository, suggest improvements, or add new features! 😊
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+ile for details.
