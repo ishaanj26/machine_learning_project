@@ -27,21 +27,15 @@ reCommando is a movie recommendation system designed to help users discover movi
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/reCommando.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd reCommando
-Install the necessary dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the program:
-
-bash
-Copy code
-python recommender.py
+2. Navigate to the project folder:
+   ```bash
+   cd reCommando
+3. Install the necessary dependencies:
+```bash
+   pip install -r requirements.txt
+4. Run the program:
+```bash
+streamlit run reCommander.py
 Usage
 Start the program by executing the script.
 Input your preferences, such as preferred genres, actors, or ratings.
