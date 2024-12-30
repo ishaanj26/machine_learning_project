@@ -8,11 +8,11 @@ reCommando is a movie recommendation system designed to help users discover movi
 - **User-Friendly Interface**: Simple, easy-to-use interface for inputting preferences and receiving suggestions.
 - **Content-based Filtering**: Uses content-based filtering for accurate recommendations.
 
-## Tech Stack:**
+## Tech Stack:
 - Language: Jupyter Notebook,Python
 - Libraries: Pandas, NumPy, sklearn, ast, nltk, pickle, streamlit
 
-## Approach:**
+## Approach:
 - **Dataset:** The dataset was sourced from [TMDb](https://www.themoviedb.org/) for movie details and metadata.
 - **Data Cleaning:** Removed duplicates and missing values, extracted genres, keywords, cast, and crew using custom parsing functions.
 - **Feature Engineering:** Created a unified "tags" column by combining movie metadata and applied stemming to standardize terms.
