@@ -43,7 +43,7 @@ Input your preferences, such as preferred movie.
 Get a list of movie recommendations tailored to your tastes.
 Example
    ```bash
-   Enter your preferred movie: Tangled
+      Enter your preferred movie: Tangled
 reCommando suggests the following movies:
 1. Out of Inferno
 2. The Princess and the Frog
