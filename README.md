@@ -47,7 +47,7 @@ Welcome to my Machine Learning Projects repository! 🚀 This is a dedicated spa
    ```
 2. Navigate to the project folder:
    ```bash
-   cd machine-learning-projects
+   cd MovieRecommendation
    ```
 3. Install the required libraries:
    ```bash
