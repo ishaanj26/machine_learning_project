@@ -43,7 +43,7 @@ Welcome to my Machine Learning Projects repository! 🚀 This is a dedicated spa
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/machine-learning-projects.git
+   git clone https://github.com/ishaanj26/machine_learning_project.git
    ```
 2. Navigate to the project folder:
    ```bash
