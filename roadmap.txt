@@ -1,0 +1,62 @@
+AI/ML SPECIALIST ROADMAP
+STEP1- Gone throught the edureka Video on Ml
+00:00:00 Introduction to Machine Learning Full Course
+00:01:08 Agenda of Machine Learning Full Course
+00:02:45 What is Machine learning?
+00:06:28 Supervised Machine Learning 
+00:11:49 Un-Supervised Machine Learning 
+00:16:03 Reinforcement Machine Learning 
+00:32:21 How to Become a Machine Learning Engineer?
+00:41:53 Machine Learning Algorithm
+01:03:46 Linear Regression Algorithm
+01:06:40 What is Linear Regression
+01:11:13 Linear Regression Use Cases 
+01:12:24 Use Case- How to Implement Linear Regression using Python
+01:30:22 Logistic Regression Algorithm
+01:35:44 Logistic Regression Use cases
+02:17:36 Linear Regression Vs Logistic Regression
+02:21:05 Decision Tree Algorithm
+02:25:53 Types of Classification
+02:34:57 What is Decision Tree?
+02:58:25 What is Pruning?
+02:58:36 Hands-on
+03:06:42 Random Forest
+03:10:46 Working of Random Forest
+03:17:45 Splitting Methods
+03:20:32 Advantages & Disadvantages of Random Forest
+03:23:52 Hands-on Random Forest
+03:35:18 KNN Algorithm
+03:37:39 Features of the KNN Algorithm
+03:45:54 How KNN works
+03:51:21 Hands-on KNN Algorithm
+04:07:45 Naive Bayes Classifier
+04:29:25 Support Vector Machine 
+04:31:13 How do SVM work
+04:55:00 K- Means Clustering Algorithm
+04:58:26 K Means Clustering 
+05:07:16 Agglomerative Clustering 
+05:09:16 Division Clustering 
+05:09:41 Mean shift Clustering 
+05:18:21 Hierarchical Clustering 
+05:25:10 How Agglomerative Clustering Works
+05:32:59 Applications of Hierarchical Clustering 
+05:38:34 Apriori Algorithm Explained 
+05:52:58 Demo
+06:30:26 Linear Algebra Application
+06:54:00 Probability
+07:07:01 Statistics
+07:12:47 Types of Statistics
+07:38:40 How to select the correct predictive modeling techniques
+07:50:54 ML Model Deployment with Flask on Heroku
+08:28:32 Azure Machine Learning
+08:54:49 AWS Machine Learning
+09:35:24 Machine learning Engineer Skills
+09:43:30 Machine Learning Engineer Job Trend, Salary & Resume
+09:59:20 Top Machine Learning Tools & Frameworks
+10:09:12 Machine Learning Roadmap
+10:22:20 Machine Learning Interview Question & Answers 
+
+STEP2- Hands-On Projects
+1. Movie Recommendation System
+2. Plant Disease Prediction
+3. SMS Spam Classifier
